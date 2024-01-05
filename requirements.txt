@@ -1,0 +1,2 @@
+pydub
+ffmpeg # for opening and saving non-wav files
