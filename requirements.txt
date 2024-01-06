@@ -1,2 +1,4 @@
 pydub
 ffmpeg # for opening and saving non-wav files
+matplotlib
+pathlib
